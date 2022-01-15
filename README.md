@@ -2,9 +2,12 @@
 
 SDN-based dynamic service discovery and
 assignment framework for a distributed MEC infrastructure. The framework was written in three programming languages.
-Java (for ONOS SDN controller)
-Python (for UE mobility model)
-Bash script (for server utilization monitoring)
+-Java (for ONOS SDN controller)
+
+-Python (for UE mobility model)
+
+-Bash script (for server utilization monitoring)
+
 ## How to run the framework
 1- Create and run a Docker container for the Httperf tool as UE
 
