@@ -15,7 +15,7 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 ![Farmers Market Finder Demo](Topology.gif)
 
 ## Mobility Model
-A short demo of mobility model where UE (such as cars) moves from one MEC server to another
+A short demo of mobility model. The mobility model add/remove UE (such as cars) to/from the network. The UE moves across the network and connect/disconnects to/from the switches.  
 
 ![Farmers Market Finder Demo](Mobility.gif)
 
