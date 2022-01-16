@@ -21,3 +21,7 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 5- Run the Mobility model python file
 
 6- Run the server utilization monitoring unit
+
+## Simple scenario implementation using XeniumNFV testbed
+![Farmers Market Finder Demo](Topology.gif)
+
