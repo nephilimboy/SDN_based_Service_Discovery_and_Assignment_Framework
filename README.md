@@ -11,7 +11,7 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 
 
 ## Scenario implementation using XeniumNFV testbed and ONOS SDN controller
-![image](Scenario.png)
+![image](Scenario1.png)
 ![Farmers Market Finder Demo](Topology.gif)
 
 ## Mobility Model
