@@ -9,6 +9,18 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 
 -Bash script (for server utilization monitoring)
 
+
+## Simple scenario implementation using XeniumNFV testbed
+![image](Scenario.png)
+![Farmers Market Finder Demo](Topology.gif)
+
+## Mobility Model
+A short demo of mobility model where UE (such as cars) moves from one MEC server to another
+![Farmers Market Finder Demo](https://drive.google.com/file/d/1Equ6IdyO1QX-O8hejQRHM3n9B9MzL_M9/view?usp=sharing)
+
+
+
+
 ## How to run the framework
 1- Create and run a Docker container for the Httperf tool as UE
 
@@ -22,6 +34,5 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 
 6- Run the server utilization monitoring unit
 
-## Simple scenario implementation using XeniumNFV testbed
-![Farmers Market Finder Demo](Topology.gif)
+
 
