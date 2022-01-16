@@ -16,7 +16,12 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 
 ## Mobility Model
 A short demo of mobility model where UE (such as cars) moves from one MEC server to another
-ccccccccccc
+
+-djdjdjddjdjdj
+
+
+
+
 ![Farmers Market Finder Demo](https://drive.google.com/uc?export=view&id=1Equ6IdyO1QX-O8hejQRHM3n9B9MzL_M9)
 
 
