@@ -10,7 +10,7 @@ assignment framework for a distributed MEC infrastructure. The framework was wri
 -Bash script (server utilization monitoring unit)
 
 
-## Simple scenario implementation using XeniumNFV testbed and ONOS SDN controller
+## Scenario implementation using XeniumNFV testbed and ONOS SDN controller
 ![image](Scenario.png)
 ![Farmers Market Finder Demo](Topology.gif)
 
