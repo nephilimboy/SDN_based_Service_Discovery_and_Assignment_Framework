@@ -3,14 +3,14 @@
 SDN-based dynamic service discovery and
 assignment framework for a distributed MEC infrastructure. The framework was written in three programming languages.
 
--Java (for ONOS SDN controller)
+-Java (ONOS SDN controller custom application, link status, service profile and UE's location monitoring unit)
 
--Python (for UE mobility model)
+-Python (UE mobility model)
 
--Bash script (for server utilization monitoring)
+-Bash script (server utilization monitoring unit)
 
 
-## Simple scenario implementation using XeniumNFV testbed
+## Simple scenario implementation using XeniumNFV testbed and ONOS SDN controller
 ![image](Scenario.png)
 ![Farmers Market Finder Demo](Topology.gif)
 
